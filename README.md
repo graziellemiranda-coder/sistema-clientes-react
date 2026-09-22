@@ -3,7 +3,7 @@
 ## 👩‍💻 Integrantes
 
 * Grazielle dos Santos Miranda
-* Maria Luiza de Santana dos Santos Nascimento
+* Maria Luiza de Santana
 
 ---
 
